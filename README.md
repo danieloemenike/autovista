@@ -1,5 +1,7 @@
 # AUTOVISTA CAR RENTAL WEBSITE
 
+![1687346643879](image/README/1687346643879.png)
+
 # Available Scripts
 
 In the project directory, you can run:
